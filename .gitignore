@@ -1,4 +1,21 @@
+# Virtual Environment
 venv
+.venv
+.env
+env/
+venv/
+ENV/
+VENV/
+env.bak/
+venv.bak/
+# Configuration File
+*config*
+*config.json
+*config.py
 *.ini
 *.session
+# IDE
 .vscode
+# Python
+__pycache__
+__pycache__/
