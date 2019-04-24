@@ -1,0 +1,4 @@
+venv
+*.ini
+*.session
+.vscode
