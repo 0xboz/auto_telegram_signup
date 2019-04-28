@@ -12,21 +12,21 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 ## How-to
-* Create an configuration file named *config.ini* in the root directory
+* Create a configuration file named *config.ini* in the root directory
 
 ```
 touch config.ini
 ```
 * Add your username and token
 
-> [pyrogram]  
-> api_id = YOUR_TELEGRAM_API_ID  
-> api_hash = YOUR_TELEGRAM_API_HASH  
+> [pyrogram]
+> api_id = YOUR_TELEGRAM_API_ID
+> api_hash = YOUR_TELEGRAM_API_HASH
 
-> [GetSMSCode.com]  
-> username = YOUR_USERNAME  
-> token = YOUR_TOKEN  
-> api_url = http://www.getsmscode.com/do.php  
+> [GetSMSCode.com]
+> username = YOUR_USERNAME
+> token = YOUR_TOKEN
+> api_url = http://www.getsmscode.com/do.php
 
 * Run
 ```
